@@ -42,4 +42,4 @@ Desafio técnico Wlabs fetio pelo Jmeter.
 
 ![Relatorio teste wlabs](https://user-images.githubusercontent.com/107372782/212710612-83128594-5b96-46d2-a280-3ce25bae0c8b.png)
 
-Vá para o Repositório: https://www.google.com/
+
